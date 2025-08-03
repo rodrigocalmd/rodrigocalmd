@@ -1,3 +1,5 @@
-## Hello!
+# Hi there, I'm Rodrigo! 👋
 
-[![Top Langs](https://github-readme-stats-snowy-two-90.vercel.app/api/top-langs/?username=rodrigocalmd&layout=compact&count_private=true)](https://https://github.com/rodrigocalmd/github-readme-stats)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Technology+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
